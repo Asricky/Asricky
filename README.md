@@ -17,36 +17,66 @@ I bring AI engineering and business analysis together: understanding stakeholder
 ## 🔵 Core Tech Stacks
 
 <div align="center">
-  <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,postgres,docker&amp;theme=dark&amp;perline=4" width="212" alt="Python, TypeScript, JavaScript, Next.js, React, Node.js, PostgreSQL, Docker" />
-  </a>
-  <p><img src="https://img.shields.io/badge/SQL-123A63?style=flat-square" alt="SQL" /></p>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python" /><br /><sub>Python</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js" /><br /><sub>Next.js</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" /><br /><sub>React</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="Node.js" /><br /><sub>Node.js</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
+    </tr>
+  </table>
 </div>
 
 ## ⚙️ Other Tech Stacks
 
 <div align="center">
-  <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=java,php,laravel,express,mysql,graphql,apollo,tailwind,vite,nginx,html,css&amp;theme=dark&amp;perline=6" width="320" alt="Java, PHP, Laravel, Express.js, MySQL, GraphQL, Apollo GraphQL, Tailwind CSS, Vite, Nginx, HTML, CSS" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/badge/Neo4j-123A63?style=flat-square" alt="Neo4j" />
-    <img src="https://img.shields.io/badge/OpenSearch-123A63?style=flat-square" alt="OpenSearch" />
-    <img src="https://img.shields.io/badge/Ollama-123A63?style=flat-square" alt="Ollama" />
-    <img src="https://img.shields.io/badge/Google_Gemini_API-123A63?style=flat-square" alt="Google Gemini API" />
-  </p>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48" height="48" alt="Java" /><br /><sub>Java</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" height="48" alt="PHP" /><br /><sub>PHP</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="48" height="48" alt="Laravel" /><br /><sub>Laravel</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="48" height="48" alt="Express.js" /><br /><sub>Express.js</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=graphql&amp;theme=dark" width="48" height="48" alt="GraphQL" /><br /><sub>GraphQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=apollo&amp;theme=dark" width="48" height="48" alt="Apollo GraphQL" /><br /><sub>Apollo GraphQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="48" height="48" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" height="48" alt="Vite" /><br /><sub>Vite</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nginx&amp;theme=dark" width="48" height="48" alt="Nginx" /><br /><sub>Nginx</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
+    </tr>
+  </table>
 </div>
 
 ## 🔧 Tools
 
 <div align="center">
-  <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,obsidian,docker,npm,pnpm,aws&amp;theme=dark&amp;perline=5" width="266" alt="Git, GitHub, VS Code, Postman, Vercel, Obsidian, Docker Desktop, npm, pnpm, AWS" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/badge/Oracle_Cloud-123A63?style=flat-square" alt="Oracle Cloud" />
-    <img src="https://img.shields.io/badge/Power_BI-123A63?style=flat-square" alt="Power BI" />
-  </p>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" height="48" alt="VS Code" /><br /><sub>VS Code</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="48" height="48" alt="Postman" /><br /><sub>Postman</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="48" height="48" alt="Vercel" /><br /><sub>Vercel</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=obsidian&amp;theme=dark" width="48" height="48" alt="Obsidian" /><br /><sub>Obsidian</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker Desktop" /><br /><sub>Docker Desktop</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" width="48" height="48" alt="npm" /><br /><sub>npm</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" width="48" height="48" alt="pnpm" /><br /><sub>pnpm</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="48" height="48" alt="AWS" /><br /><sub>AWS</sub></td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
