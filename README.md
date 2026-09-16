@@ -14,17 +14,40 @@ I'm **Lukas Ricky**, an **Information Systems student at Telkom University** wit
 
 I bring AI engineering and business analysis together: understanding stakeholder needs, mapping workflows, and building systems around the people who use them. Teaching and mentoring keep that human perspective close to my work.
 
-## 🔵 Core Tech Stack
+## 🔵 Core Tech Stacks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nextjs&amp;theme=dark" height="40" alt="Python and Next.js" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,postgres,docker&amp;theme=dark&amp;perline=4" width="212" alt="Python, TypeScript, JavaScript, Next.js, React, Node.js, PostgreSQL, Docker" />
+  </a>
+  <p><img src="https://img.shields.io/badge/SQL-123A63?style=flat-square" alt="SQL" /></p>
+</div>
 
-![SQL](https://img.shields.io/badge/SQL-123A63?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-123A63?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-123A63?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-123A63?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-123A63?style=flat-square)
+## ⚙️ Other Tech Stacks
+
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=java,php,laravel,express,mysql,graphql,apollo,tailwind,vite,nginx,html,css&amp;theme=dark&amp;perline=6" width="320" alt="Java, PHP, Laravel, Express.js, MySQL, GraphQL, Apollo GraphQL, Tailwind CSS, Vite, Nginx, HTML, CSS" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/Neo4j-123A63?style=flat-square" alt="Neo4j" />
+    <img src="https://img.shields.io/badge/OpenSearch-123A63?style=flat-square" alt="OpenSearch" />
+    <img src="https://img.shields.io/badge/Ollama-123A63?style=flat-square" alt="Ollama" />
+    <img src="https://img.shields.io/badge/Google_Gemini_API-123A63?style=flat-square" alt="Google Gemini API" />
+  </p>
+</div>
+
+## 🔧 Tools
+
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,obsidian,docker,npm,pnpm,aws&amp;theme=dark&amp;perline=5" width="266" alt="Git, GitHub, VS Code, Postman, Vercel, Obsidian, Docker Desktop, npm, pnpm, AWS" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/Oracle_Cloud-123A63?style=flat-square" alt="Oracle Cloud" />
+    <img src="https://img.shields.io/badge/Power_BI-123A63?style=flat-square" alt="Power BI" />
+  </p>
+</div>
 
 ## 🚀 Featured Projects
 
