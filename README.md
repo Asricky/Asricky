@@ -144,23 +144,13 @@ Jul 2025 — Oct 2025
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <p><a href="https://github.com/Asricky">Explore my repositories and contribution activity on GitHub</a></p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Asricky&amp;show_icons=true&amp;hide_border=true&amp;bg_color=07111F&amp;title_color=60A5FA&amp;icon_color=38BDF8&amp;text_color=FFFFFF" alt="Asricky GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asricky&amp;layout=compact&amp;hide_border=true&amp;bg_color=07111F&amp;title_color=60A5FA&amp;text_color=FFFFFF&amp;langs_count=8" alt="Most used languages in Asricky's public repositories" />
 </div>
 
-<!--
-External cards were unavailable during validation (2026-09-16):
-GitHub Readme Stats: HTTP 503; Streak Stats: HTTP 403.
-Keep the text fallback above until all endpoints return valid, non-error SVGs.
-The optional layout below stacks naturally on narrow screens. Test before enabling.
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Asricky&amp;show_icons=true&amp;hide_border=true&amp;bg_color=07111F&amp;title_color=60A5FA&amp;icon_color=38BDF8&amp;text_color=FFFFFF" alt="Asricky GitHub statistics" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asricky&amp;layout=compact&amp;hide_border=true&amp;bg_color=07111F&amp;title_color=60A5FA&amp;text_color=FFFFFF" alt="Most used languages in Asricky's public repositories" />
-</div>
 <div align="center">
   <img width="495" src="https://streak-stats.demolab.com/?user=Asricky&amp;hide_border=true&amp;background=07111F&amp;ring=38BDF8&amp;fire=60A5FA&amp;currStreakLabel=60A5FA&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=CBD5E1" alt="Asricky contribution streak" />
 </div>
--->
 
 <div align="center">
   <p><sub>A work in progress. Just like me.</sub></p>
