@@ -23,9 +23,12 @@ I bring AI engineering and business analysis together: understanding stakeholder
       <td align="center"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48" height="48" alt="Java" /><br /><sub>Java</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" height="48" alt="PHP" /><br /><sub>PHP</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" width="48" height="48" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
     </tr>
   </table>
 </div>
@@ -39,9 +42,12 @@ I bring AI engineering and business analysis together: understanding stakeholder
       <td align="center"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" /><br /><sub>React</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="Node.js" /><br /><sub>Node.js</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="48" height="48" alt="Laravel" /><br /><sub>Laravel</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="48" height="48" alt="Express.js" /><br /><sub>Express.js</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="48" height="48" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=apollo&amp;theme=dark" width="48" height="48" alt="Apollo GraphQL" /><br /><sub>Apollo GraphQL</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48" height="48" alt="Jetpack Compose" /><br /><sub>Jetpack Compose</sub></td>
     </tr>
   </table>
 </div>
@@ -55,7 +61,10 @@ I bring AI engineering and business analysis together: understanding stakeholder
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=graphql&amp;theme=dark" width="48" height="48" alt="GraphQL" /><br /><sub>GraphQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=nginx&amp;theme=dark" width="48" height="48" alt="Nginx" /><br /><sub>Nginx</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="48" height="48" alt="SQLite" /><br /><sub>SQLite</sub></td>
     </tr>
   </table>
 </div>
@@ -69,14 +78,17 @@ I bring AI engineering and business analysis together: understanding stakeholder
       <td align="center"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" height="48" alt="VS Code" /><br /><sub>VS Code</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="48" height="48" alt="Postman" /><br /><sub>Postman</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="48" height="48" alt="Vercel" /><br /><sub>Vercel</sub></td>
     </tr>
     <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="48" height="48" alt="Vercel" /><br /><sub>Vercel</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker Desktop" /><br /><sub>Docker Desktop</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" width="48" height="48" alt="npm" /><br /><sub>npm</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" width="48" height="48" alt="pnpm" /><br /><sub>pnpm</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="48" height="48" alt="AWS" /><br /><sub>AWS</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=obsidian&amp;theme=dark" width="48" height="48" alt="Obsidian" /><br /><sub>Obsidian</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gradle&amp;theme=dark" width="48" height="48" alt="Gradle" /><br /><sub>Gradle</sub></td>
     </tr>
   </table>
 </div>
@@ -85,6 +97,7 @@ I bring AI engineering and business analysis together: understanding stakeholder
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Lumi](https://github.com/Asricky/lumi)** | Offline Android personal finance app that turns bank and e-wallet notifications into local transaction records and budgeting insights. | Kotlin, Jetpack Compose, Room (SQLite), DataStore, WorkManager |
 | **[RAG-based Root Cause Analysis](https://lukasricky.my.id/projects/rag-root-cause-analysis)** | Individual thesis project using system logs and documentation to help investigate IT incidents. | RAG, Knowledge Retrieval, Log Analysis |
 | **Enterprise Agentic AI** | Enterprise workflow supporting research, economic analysis, reporting, and automation. | Agentic AI, Tool Calling, API Integration, Automation |
 | **[BISIK](https://lukasricky.my.id/projects/bisik-inclusive-learning)** | Inclusive learning companion with camera, image upload, text, and voice inputs for child-friendly explanations. | Next.js, Gemini 2.5 Flash, Multimodal AI |
